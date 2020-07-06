@@ -1,0 +1,75 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:knowledge_book",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "name": [{
+                                "text": "Prop Placer",
+                                "italic": false
+                            },
+                            {
+                                "text": " +",
+                                "color": "green",
+                                "italic": false
+                            }],
+                            "entity": "this"
+                        },
+                        {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "text": "░░░░░░░░░░░░░░░░░░░░░",
+                                    "color": "blue",
+                                    "italic": false
+                                },
+                                "",
+                                [
+                                    {
+                                        "text": "Click: ",
+                                        "color": "white",
+                                        "italic": false
+                                    },
+                                    {
+                                        "text": "Place prop",
+                                        "color": "gray",
+                                        "italic": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "text": "Shift-click: ",
+                                        "color": "white",
+                                        "italic": false
+                                    },
+                                    {
+                                        "text": "Place prop aligned",
+                                        "color": "gray",
+                                        "italic": false
+                                    }
+                                ],
+                                "",
+                                {
+                                    "text": "░░░░░░░░░░░░░░░░░░░░░",
+                                    "color": "blue",
+                                    "italic": false
+                                }
+                            ],
+                            "entity": "this",
+                            "replace": false
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{Recipes:[],ctc:{id:\"prop_placer\", from:\"geegaz:ggpi\"}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

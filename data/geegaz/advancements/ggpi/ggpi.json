@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "Place and remove props in your world in an easy and intuitive way\n",
+          "icon": {
+               "item": "minecraft:white_concrete"
+          },
+          "show_toast": false,
+          "title": "GGPI - Prop Interaction"
+     },
+     "parent": "global:geegaz"
+}

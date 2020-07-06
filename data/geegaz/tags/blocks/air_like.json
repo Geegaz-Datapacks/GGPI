@@ -1,0 +1,18 @@
+{
+     "values": [
+          "#minecraft:banners",
+          "#minecraft:buttons",
+          "#minecraft:carpets",
+          "#minecraft:coral_plants",
+          "#minecraft:crops",
+          "#minecraft:flowers",
+          "#minecraft:rails",
+          "#minecraft:saplings",
+          "#minecraft:signs",
+          "#minecraft:wall_corals",
+          
+          "minecraft:air",
+          "minecraft:cave_air",
+          "minecraft:void_air"
+     ]
+}

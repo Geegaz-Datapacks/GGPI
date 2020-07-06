@@ -1,0 +1,10 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "rewards": {
+          "function": "geegaz:ggpi/entity/player/assign_id"
+     }
+}

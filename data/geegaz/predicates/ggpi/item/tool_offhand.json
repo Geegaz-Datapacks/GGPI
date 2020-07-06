@@ -1,0 +1,13 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+        {
+            "condition": "minecraft:reference",
+            "name": "geegaz:ggpi/item/prop_placer/offhand"
+        },
+        {
+            "condition": "minecraft:reference",
+            "name": "geegaz:ggpi/item/prop_eraser/offhand"
+        }
+    ]
+}

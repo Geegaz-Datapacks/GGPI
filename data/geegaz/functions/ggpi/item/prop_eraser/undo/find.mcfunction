@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,tag=ggpi.tag.undo] if score @s ggpi.CONST = @p ggpi.CONST run function geegaz:ggpi/item/prop_eraser/undo/decrease_undo

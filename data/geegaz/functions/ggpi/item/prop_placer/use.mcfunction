@@ -1,0 +1,2 @@
+execute if entity @s[tag=ggpi.mainhand] if predicate geegaz:ggpi/item/prop/offhand run function geegaz:ggpi/item/prop_placer/place/get_item
+execute if entity @s[tag=ggpi.offhand] if predicate geegaz:ggpi/item/prop/mainhand run function geegaz:ggpi/item/prop_placer/place/get_item
