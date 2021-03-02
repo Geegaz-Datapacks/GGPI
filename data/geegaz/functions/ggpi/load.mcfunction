@@ -8,5 +8,5 @@ scoreboard objectives add ggpi.var dummy
 scoreboard objectives add ggpi.CONST dummy
 
 
-kill @e[type=armor_stand,tag=ggpi.tag.undo]
+kill @e[type=armor_stand,tag=ggpi.undo]
 scoreboard players set ggpi.config ggpi.var 10

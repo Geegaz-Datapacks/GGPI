@@ -1,2 +1,2 @@
 
-execute unless entity @s[tag=ggpi.tag.undo] unless predicate geegaz:ggpi/entity/prop/has_prop run kill @s
+execute unless entity @s[tag=ggpi.undo] unless predicate geegaz:ggpi/entity/prop/has_prop run kill @s
