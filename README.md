@@ -1,5 +1,5 @@
 # GGPI - Geegaz's Prop Interaction
-A utility datapack for mapmakers, aiming to give a quick and intuitive way to place 3D models in a minecraft world.
+A utility datapack for mapmakers, aiming to give a quick and intuitive way to place 3D models in a minecraft world. Check out the **[GGPI prop pack helper](https://github.com/geegaz/GGPIPropPackHelper/releases)** to create prop packs.
 
 The GGPI datapack introduces 2 tools: the **Prop Placer** and the **Prop Eraser**.
 
